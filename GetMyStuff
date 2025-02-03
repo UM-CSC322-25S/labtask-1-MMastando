@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to gather user system information dynamically
+# Script
 
 {
     echo "User ID: $(id -u)"
